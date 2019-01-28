@@ -1,7 +1,141 @@
 Base path: C:/Program Files/Unity5.2.4f1/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-15120
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-21156
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=997 outsize=1279 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=13030 outsize=11024 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+  api=4 type=0 insize=7541 outsize=3508 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=13030 outsize=1899 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_SIMPLE pd= ok=1
+  api=4 type=1 insize=7541 outsize=10154 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4284 outsize=2753 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4284 outsize=6149 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6643 outsize=3508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6643 outsize=2346 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3586 outsize=2484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3586 outsize=1314 kw= pd= ok=1
+Cmd: preprocess
+  insize=1042 outsize=276 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): redefinition of 'v2f'\nCompiling Vertex program
+  api=4 type=0 insize=1066 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1113 outsize=278 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): redefinition of 'v2f'\nCompiling Vertex program
+  api=4 type=0 insize=1135 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1114 outsize=278 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (29): syntax error: unexpected token 'void'\nCompiling Vertex program
+  api=4 type=0 insize=1136 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1118 outsize=277 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (31): syntax error: unexpected token 'void'\nCompiling Vertex program
+  api=4 type=0 insize=1140 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1115 outsize=276 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): syntax error: unexpected token '}'\nCompiling Vertex program
+  api=4 type=0 insize=1139 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1115 outsize=278 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1137 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1137 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1114 outsize=278 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1136 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1136 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1117 outsize=278 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1139 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1139 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1159 outsize=293 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1166 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1166 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1163 outsize=297 ok=1
+Cmd: preprocess
+  insize=1159 outsize=293 ok=1
+Cmd: preprocess
+  insize=1158 outsize=292 ok=1
+Cmd: preprocess
+  insize=1157 outsize=292 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1165 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1165 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1197 outsize=292 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1205 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1205 outsize=559 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10926 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10618 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: preprocess
+  insize=1197 outsize=292 ok=1
+Cmd: preprocess
+  insize=1197 outsize=292 ok=1
+Cmd: preprocess
+  insize=1213 outsize=292 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1221 outsize=1851 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1221 outsize=559 kw= pd= ok=1
+Cmd: preprocess
+  insize=1261 outsize=293 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): syntax error: unexpected token 'return'\nCompiling Vertex program
+  api=4 type=0 insize=1267 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1262 outsize=293 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1268 outsize=1152 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1268 outsize=1249 kw= pd= ok=1
+Cmd: preprocess
+  insize=1412 outsize=294 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1418 outsize=1152 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1418 outsize=1323 kw= pd= ok=1
+Cmd: preprocess
+  insize=1415 outsize=294 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1421 outsize=1152 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1421 outsize=1249 kw= pd= ok=1
